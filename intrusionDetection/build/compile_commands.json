@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/wwd/Documents/VS_Code/intrusionDetection/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/ID.dir/camera.cpp.o -c /home/wwd/Documents/VS_Code/intrusionDetection/camera.cpp",
+  "file": "/home/wwd/Documents/VS_Code/intrusionDetection/camera.cpp"
+},
+{
+  "directory": "/home/wwd/Documents/VS_Code/intrusionDetection/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/ID.dir/internet.cpp.o -c /home/wwd/Documents/VS_Code/intrusionDetection/internet.cpp",
+  "file": "/home/wwd/Documents/VS_Code/intrusionDetection/internet.cpp"
+},
+{
+  "directory": "/home/wwd/Documents/VS_Code/intrusionDetection/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/ID.dir/main.cpp.o -c /home/wwd/Documents/VS_Code/intrusionDetection/main.cpp",
+  "file": "/home/wwd/Documents/VS_Code/intrusionDetection/main.cpp"
+}
+]

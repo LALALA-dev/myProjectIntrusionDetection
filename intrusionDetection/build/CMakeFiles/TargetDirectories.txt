@@ -1,0 +1,3 @@
+/home/wwd/Documents/VS_Code/intrusionDetection/build/CMakeFiles/ID.dir
+/home/wwd/Documents/VS_Code/intrusionDetection/build/CMakeFiles/edit_cache.dir
+/home/wwd/Documents/VS_Code/intrusionDetection/build/CMakeFiles/rebuild_cache.dir
